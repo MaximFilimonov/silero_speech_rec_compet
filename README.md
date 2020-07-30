@@ -7,6 +7,7 @@ torchaudio
 matplotlib.pyplot
 ```
 ## 2. Pre-processing
+- Normalization
 
 ## 3. Feature extraction
 
