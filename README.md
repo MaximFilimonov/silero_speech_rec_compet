@@ -8,7 +8,7 @@ matplotlib.pyplot
 ```
 ## 2. Pre-processing
 - Normalization
-
+- Filtering (?)
 ## 3. Feature extraction
 
 ### Features to compute:
