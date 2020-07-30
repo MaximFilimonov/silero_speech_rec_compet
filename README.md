@@ -13,16 +13,16 @@ matplotlib.pyplot
 
 ### Features to compute:
 - Low-level params:
- - RMS level;
- - spectral centroid;
- - bandwidth;
- - zero-crossing rate;
- - spectral roll-off freq;
- - band energy ratio;
- - delta spectrum magnitude;
- - pitch & pitch strength;
+  - RMS level;
+  - spectral centroid;
+  - bandwidth;
+  - zero-crossing rate;
+  - spectral roll-off freq;
+  - band energy ratio;
+  - delta spectrum magnitude;
+  - pitch & pitch strength;
 - MFCC:
- - 
+  - Just compute it
 - 
 
 ## 4. Models
