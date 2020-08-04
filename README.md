@@ -6,9 +6,6 @@ torch
 torchaudio
 matplotlib.pyplot
 ```
-## 2. Pre-processing
-- Normalization
-- Filtering (?)
 ## 3. Feature extraction
 
 ### Features to compute:
@@ -25,5 +22,5 @@ matplotlib.pyplot
 - 
 
 ## 4. Models
-
+- XGBoost 
 ## 5. Results
