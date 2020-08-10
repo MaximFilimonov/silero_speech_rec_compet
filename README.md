@@ -1,19 +1,5 @@
-# Silero Speech Activity Classifier Pipeline
+# Silero Speech Activity Classifier
 
-## 1. Requirements
-```
-tqdm
-numpy
-torch
-plotly
-pandas
-librosa
-xgboost
-seaborn
-torchaudio
-sklearn.metrics
-sklearn.model_selection
-```
 ## Feature extraction
 - Low-level params:
   - RMS level; 
