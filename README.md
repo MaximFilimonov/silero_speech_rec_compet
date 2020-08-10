@@ -1,6 +1,6 @@
 # Silero Speech Activity Classifier
 
-## Feature extraction
+## Features
 - Low-level params:
   - RMS level; 
   - spectral centroid; 
@@ -13,4 +13,5 @@
 - XGBoost 
 
 ## Results
-metric - acc: 0.95336
+100% data: metric - acc: 0.95336
+5% data: metric - acc: 0.95199
