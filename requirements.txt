@@ -1,0 +1,11 @@
+tqdm
+numpy
+torch
+plotly
+pandas
+librosa
+xgboost
+seaborn
+torchaudio
+sklearn.metrics
+sklearn.model_selection
