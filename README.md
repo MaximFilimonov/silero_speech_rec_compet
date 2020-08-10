@@ -2,25 +2,29 @@
 
 ## 1. Requirements
 ```
+tqdm
+numpy
 torch
+plotly
+pandas
+librosa
+xgboost
+seaborn
 torchaudio
-matplotlib.pyplot
+sklearn.metrics
+sklearn.model_selection
 ```
-## 3. Feature extraction
-
-### Features to compute:
+## Feature extraction
 - Low-level params:
-  - RMS level; :white_check_mark:
-  - spectral centroid; :white_check_mark:
-  - bandwidth; :white_check_mark:
-  - zero-crossing rate; :white_check_mark:
+  - RMS level; 
+  - spectral centroid; 
+  - bandwidth; 
+  - zero-crossing rate; 
   - spectral roll-off freq;
-  - band energy ratio;:white_check_mark:
-  - delta spectrum magnitude;
-  - pitch & pitch strength;
-- MFCC :white_check_mark:
-- 
+- MFCC 20 first
 
-## 4. Models
+## Models:
 - XGBoost 
-## 5. Results
+
+## Results
+metric - acc: 0.95336
