@@ -13,5 +13,5 @@
 - XGBoost 
 
 ## Results
-100% data: metric - acc: 0.95336
-5% data: metric - acc: 0.95199
+- 100% data: metric - acc: 0.95336
+- 5% data: metric - acc: 0.95199
